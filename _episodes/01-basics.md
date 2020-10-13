@@ -100,5 +100,6 @@ collaboration among different people.
 > >     merged into the rest of the document. Even online word processors like
 > >     Google Docs or Microsoft Office Online do not fully resolve these
 > >     problems.
+Test
 > {: .solution}
 {: .challenge}
